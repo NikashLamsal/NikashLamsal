@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 , ✨ Welcome to my GitHub Profile! ✨
 
-<!--
-**NikashLamsal/NikashLamsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's me Nikash Lamsal . I am a passionate Computer Engineering student 🎓 currently pursuing my studies at Tribhuvan University, Nepal. With a keen interest in 💻 programming, 🏆 hackathons, and 🌟 open-source contribution. I am currently joined as a intern at Nobel Navigators and team.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+* Building my skills in competitive programming and hackathon projects.
+* Exploring interesting projects in Computer Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning Journey
+* Currently Learning Web development and Python .
+
+### 💬 Ask Me About
+* Frontend development
+* UI/UX Design 
+* Programming in C , c++ and Python
+
+### 📫 How to Reach Me
+* Email: lamsalnikash312@gmail.com
+* Instagram:https://www.instagram.com/nikash__lamsal/profilecard/?       igsh=eGVvMjB6bG81ZmZm
+
+### ⚡ Fun Fact
+* I’m always up for learning new skill , and I never say no to pizza! 🍕
