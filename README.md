@@ -14,7 +14,7 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 ### 💬 Ask Me About
 * Frontend development
 * UI/UX Design 
-* Programming in C , c++ and Python
+* Programming in C , C++ and Python
 
 ### 📫 How to Reach Me
 * Email: lamsalnikash312@gmail.com
