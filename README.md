@@ -14,7 +14,7 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
     <li>Machine Learning</li>
 </ol>
 
-### 💬 Ask Me About
+### 💬 Ask Me About:
 * Frontend development
 * UI/UX Design 
 * Programming in C , C++ and Python
