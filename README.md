@@ -10,7 +10,7 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 
 ### 🌱 Learning Journey
 * Currently Learning :
-<Ol>
+<ol>
     <li>Web development using MERN stack<\li>
     <li>Machine Learning<\li>
 <\ol>
