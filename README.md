@@ -6,9 +6,9 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 
 ### 🔭 Currently Working On:
 * Building my skills in competitive programming and hackathon projects.
-* Exploring interesting projects in Computer Engineering.
+* A project on building a user-friendly learning platform with my team .
 
-### Currently Learning :
+### 💻️ Currently Learning :
 <ol>
     <li>Web development using MERN stack</li>
     <li>Machine Learning</li>
