@@ -9,7 +9,9 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 * Exploring interesting projects in Computer Engineering.
 
 ### 🌱 Learning Journey
-* Currently Learning Web development using MERN stack  and  Devops.
+* Currently Learning :
+     1.Web development using MERN stack
+     2.Machine Learning
 
 ### 💬 Ask Me About
 * Frontend development
