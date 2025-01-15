@@ -21,7 +21,7 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 
 ### 📫 How to Reach Me:
 * Email: lamsalnikash312@gmail.com
-* Instagram:https://www.instagram.com/nikash__lamsal/profilecard/?       igsh=eGVvMjB6bG81ZmZm
+* Instagram:https://www.instagram.com/nikash__lamsal/profilecard/?
 
 ### ⚡ Fun Fact:
 * I’m always up for learning new skill , and I never say no to pizza! 🍕
