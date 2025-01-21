@@ -20,7 +20,7 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 * Programming in C , C++ and Python
 
 ### 📫 How to Reach Me:
-* Email: lamsalnikash312@gmail.com
+* Email: [mailto:lamsalnikash312@gmail.com]
 * Instagram:https://www.instagram.com/nikash__lamsal/profilecard/
 
 ### ⚡ Fun Fact:
