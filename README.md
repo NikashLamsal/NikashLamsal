@@ -30,3 +30,31 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 ### Let's Connect!
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lamsalnikash312@gmail.com)  
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nikash__lamsal/profilecard/)
+
+
+---
+
+⭐️ _"Striving for progress, not perfection."_  
+
+💡 _Keep learning, keep building!_ 🚀  
+
+![Profile Views](https://komarev.com/ghpvc/?username=NikashLamsal&label=Profile%20Views&color=blue&style=flat)
+
+
+---
+
+
+**✨ Why?**  
+- Simple yet **stylish ASCII dividers** for a **clean finish**.  
+
+---
+
+### **3️⃣ Animated Thanks Banner**  
+```md
+---
+  
+**Thanks for Visiting!** 🎉  
+![Thank You GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+
+![Banner](https://github.com/NikashLamsal/NikashLamsal/blob/main/banner.png)
