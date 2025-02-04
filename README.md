@@ -35,7 +35,7 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 
 ### Let's Connect!
 ---
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lamsalnikash312@gmail.com)  
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=blue)](mailto:lamsalnikash312@gmail.com)  
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nikash__lamsal/profilecard/)
 - [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nikashlamsal)
 ---
