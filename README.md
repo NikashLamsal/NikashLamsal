@@ -1,4 +1,4 @@
-## Hi there 👋 , ✨ Welcome to my GitHub Profile! ✨
+## Hi there 👋 , Welcome to my GitHub Profile!
 
 ![Banner Image](./Frame%201.svg)
 
