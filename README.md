@@ -32,8 +32,16 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nikash__lamsal/profilecard/)
 
 
+
+**Thanks for Visiting!** 🎉  
+![Thank You GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 ---
 
+
+  ![Banner](https://github.com/NikashLamsal/NikashLamsal/blob/main/banner.png)
+
+
+  
 ⭐️ _"Striving for progress, not perfection."_  
 
 💡 _Keep learning, keep building!_ 🚀  
@@ -51,10 +59,8 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 
 ### **3️⃣ Animated Thanks Banner**  
 ```md
----
+
   
-**Thanks for Visiting!** 🎉  
-![Thank You GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 
-![Banner](https://github.com/NikashLamsal/NikashLamsal/blob/main/banner.png)
+
