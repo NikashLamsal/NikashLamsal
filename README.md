@@ -5,18 +5,21 @@
 It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently pursuing my studies at Tribhuvan University, Nepal. With a keen interest in 💻 programming, 🏆 hackathons, and  open-source contribution. I have currently joined as an intern at Nobel Navigators and team.
 
 ### Currently Exploring:
-✨ **MERN Stack Development** – Building full-stack web applications 
-🤖 **Machine Learning** – Unleashing the power of AI and data science   
+
+* **MERN Stack Development** – Building full-stack web applications 
+* **Machine Learning** – Unleashing the power of AI and data science   
 
 ### Ask Me About:
+
 🔹 Crafting sleek and interactive **frontend experiences**   
 🔹 Designing intuitive **UI/UX** for seamless user interaction  
 🔹 Writing efficient and optimized code in **C, C++, and Python**  
 
 ### Currently Working On: 
-🚀 Developing an **interactive learning platform** with my team. 
 
-## 📊 GitHub Stats
+- Developing an **interactive learning platform** with my team. 
+
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=radical)
 
