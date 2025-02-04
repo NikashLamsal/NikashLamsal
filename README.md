@@ -39,7 +39,4 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nikash__lamsal/profilecard/)
 
 ---
-
-Every bug is a lesson, every fix is growth.*  
-
-🔗 **Let's connect:** [GitHub](https://github.com/NikashLamsal) | [LinkedIn](https://www.linkedin.com/in/NikashLamsal) | [Twitter](https://twitter.com/NikashLamsal)
+*Every bug is a lesson, every fix is growth.*  
