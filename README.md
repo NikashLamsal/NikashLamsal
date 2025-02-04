@@ -19,10 +19,24 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 * UI/UX Design 
 * Programming in C , C++ and Python
 
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=radical)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikashLamsal&theme=radical)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikashLamsal&layout=compact&theme=radical)
+
+<!-- GitHub Profile Summary Cards -->
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikashLamsal&theme=radical)
+
+
 ### 📫 How to Reach Me:
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lamsalnikash312@gmail.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nikash__lamsal/profilecard/)
-
 
 ### ⚡ Fun Fact:
 * I’m always up for learning new skill , and I never say no to pizza! 🍕
