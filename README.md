@@ -25,11 +25,11 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 ### GitHub Stats:
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikashLamsal&layout=compact&theme=radical)
 
 <!--[![NikashLamsal's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NikashLamsal)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikashLamsal&layout=compact&theme=radical)
+
 <!--
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikashLamsal&theme=radical)
 -->
