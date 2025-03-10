@@ -1,6 +1,6 @@
 ## Hi there 👋 , Welcome to my GitHub Profile!
 
-![Banner Image](./Frame%201.svg)
+![Banner Image](./Nikash%20Lamsal.png)
 
 It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently pursuing my studies at Tribhuvan University, Nepal. With a keen interest in 💻 programming, 🏆 hackathons, and  open-source contribution. I have currently joined as an intern at Nobel Navigators and team.
 
