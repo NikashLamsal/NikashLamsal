@@ -42,4 +42,5 @@ It's me, Nikash . I am a passionate Computer Engineering student 🎓 currently 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nikash__lamsal/profilecard/)
 - [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nikashlamsal)
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=NikashLamsal&color=blue)
 *Every bug is a lesson, every fix is growth.*  
