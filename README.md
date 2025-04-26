@@ -1,36 +1,38 @@
 <div align="center">
 
   <!-- Frame Image Full Width -->
-  <img src="Nikash Lamsal frame.jpg" style="width: 100%; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
+  <img src="Nikash Lamsal.svg" style="width: 100%; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
 
-  <!-- Ultra Thin Line -->
   <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 10px 0;"/>
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Frontend+Developer+(MERN);Machine+Learning+Enthusiast;Lifelong+Learner+%26+Builder!&center=true&width=800&height=45&color=00FFFF&size=28" alt="Typing SVG"/>
+
+  <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 10px 0;"/>
+
 
 </div>
 
 <br/>
 
 <!-- About Me Section -->
-<h2 align="center" style="color: #00FFFF; font-size: 35px;">🧑‍💻 About Me</h2>
+<h1 align="center" style="color: #00FFFF; font-size: 35px;">🧑‍💻 About Me</h1>
 
-<div align="center" style="font-size: 24px; max-width: 1000px; margin: auto;">
-
+<div align="center" style="font-size: 30px; max-width: 1000px; margin: auto;">
+<h2>
 Hello! I'm <b>Nikash Lamsal</b>, a passionate <b>Computer Engineering student</b> from <b>Tribhuvan University, Nepal 🇳🇵</b>.<br><br>
 Passionate about <b>Full Stack Web Development (MERN Stack)</b>, <b>Machine Learning</b>, and <b>Open Source Contributions</b>.<br>
 Currently an <b>Intern</b> at <b>Nobel Navigators</b>, honing my development skills.<br>
 I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>innovating through code</b>.
-
+</h2>
 </div>
 
 <br/>
 
 <!-- Completed Projects Section -->
-<h2 align="center" style="color: #00FFFF; font-size: 35px;">🚀 Completed Projects</h2>
+<h1 align="center" style="color: #00FFFF; font-size: 35px;"> Completed Projects</h1>
 
-<table align="center" width="90%" style="font-size: 20px;">
+<table align="center" width="90%" style="font-size: 30px;">
   <tr>
     <th>Project Name</th>
     <th>Description</th>
@@ -64,7 +66,7 @@ I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>inn
 <br/>
 
 <!-- GitHub Stats Section -->
-<h2 align="center" style="color: #00FFFF; font-size: 35px;">GitHub Stats</h2>
+<h1 align="center" style="color: #00FFFF; font-size: 35px;">GitHub Stats</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&card_width=350" width="400px"/>
@@ -75,7 +77,7 @@ I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>inn
 <br/>
 
 <!-- Connect With Me Section -->
-<h2 align="center" style="color: #00FFFF; font-size: 35px;">Connect with Me</h2>
+<h1 align="center" style="color: #00FFFF; font-size: 35px;">Connect with Me</h1>
 
 <p align="center">
   <a href="mailto:lamsalnikash312@gmail.com">
