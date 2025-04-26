@@ -1,76 +1,60 @@
-<h1 align="center">👋 Hi there, Welcome to my GitHub Profile!</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Hi GIF">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN%20Stack%20Developer;Machine%20Learning%20Enthusiast;Open%20Source%20Contributor;Lifelong%20Learner&center=true&width=500&height=50&color=ff00ff&size=24" alt="Typing SVG">
-</p>
-
----
-
-<h2 align="center">About Me 👨‍💻</h2>
 <div align="center">
-  <img src="Github Profile .jpg" alt="Nikash's Profile Picture" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); width: 180px; height: 180px;">
-  <div style="display: inline-block; margin-left: 20px; max-width: 400px; text-align: left; line-height: 1.5;">
-    <p><span style="color:#FF00FF; font-weight: bold;">Hi, I'm Nikash Lamsal!</span>  
-    🎓 A **Computer Engineering student** at *Tribhuvan University, Nepal*, passionate about **technology**, **programming**, and **continuous learning**.  
-    💻 Currently an **Intern** at *Nobel Navigators*, working on exciting projects and exploring new horizons.  
-    🚀 I specialize in **MERN Stack Development** and **Machine Learning**, with a goal to use **AI** and **data-driven insights** to solve real-world problems.</p>
-  </div>
-</div>
+  
+# 🚀 Nikash Lamsal
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+and+Building)
+
+<img src="Github Profile .jpg" width="200" style="border-radius: 50%; box-shadow: 0px 0px 20px #ff00ff;" alt="Nikash's profile pic">
 
 ---
 
-<h2 align="center">Completed Projects 🚀</h2>
+🌟 **Hi, I'm Nikash!** A passionate **Computer Engineering student** from Nepal 🇳🇵, focused on **Web Development (MERN Stack)**, **Machine Learning**, and **Open Source Contribution**.  
+Currently polishing my skills as an **Intern** at **Nobel Navigators** 🚀
 
-- [**Interactive Learning Platform**](https://link-to-your-project.com)  
-  An online platform that allows users to engage with educational content in a dynamic and interactive way.
-
-- [**Neon Space Dodger**](https://link-to-your-project.com)  
-  A fun, fast-paced game featuring a spaceship dodging obstacles with vibrant neon effects.
-
-- [**Typing Test Simulator**](https://link-to-your-project.com)  
-  A real-time typing test app with virtual keyboard interaction, typing stats, and personalized challenges.
-
-- [**Salary Predictor**](https://link-to-your-project.com)  
-  A machine learning project predicting salaries based on experience, education, and other relevant factors.
+⚡ I believe in **building cool stuff**, **solving problems**, and **growing every day**.
 
 ---
+  
+# 🛠️ Completed Projects
 
-# 📈 GitHub Stats
+| Project | Description |
+|--------|-------------|
+| [🚀 Interactive Learning Platform](https://link-to-your-project.com) | Dynamic online platform for education |
+| [🚀 Neon Space Dodger](https://link-to-your-project.com) | Arcade spaceship game with neon aesthetics |
+| [🚀 Typing Test Simulator](https://link-to-your-project.com) | Real-time typing speed tracker & challenge |
+| [🚀 Salary Predictor](https://link-to-your-project.com) | Predicts salary using ML based on data |
+
+---
+  
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=radical" alt="Nikash's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikashLamsal&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NikashLamsal&theme=tokyonight" width="450"/>
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:lamsalnikash312@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nikash__lamsal/profilecard/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/nikashlamsal">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-ff00ff?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NikashLamsal&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NikashLamsal&color=ff00ff" alt="Profile Views" />
 </p>
 
----
+<h3 align="center" style="color: #FF00FF;"><i>“Every bug is a lesson, every fix is growth.”</i> 🛠️</h3>
 
-<h3 align="center"><i>“Every bug is a lesson, every fix is growth.”</i> 🛠️</h3>
+</div>
