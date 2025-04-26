@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Frame Image Full Width -->
   <img src="Nikash Lamsal.svg" style="width: 100%; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
 
   <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 10px 0;"/>
 
-  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Frontend+Developer+(MERN);Machine+Learning+Enthusiast;Lifelong+Learner+%26+Builder!&center=true&width=800&height=45&color=00FFFF&size=28" alt="Typing SVG"/>
 
   <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 10px 0;"/>
@@ -93,5 +91,4 @@ I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>inn
 
 <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 20px 0;"/>
 
-<!-- Final Motivational Quote -->
 <h3 align="center" style="color: #00FFFF; font-style: italic;">“Every bug is a lesson, every fix is growth.”</h3>
