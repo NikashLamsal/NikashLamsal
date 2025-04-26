@@ -1,8 +1,9 @@
+
+<img src="Nikash Lamsal frame.jpg" style="width: 100%; max-width: 1200px; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
+
+<hr style="border: 0.3px solid #00FFFF; width: 90%; margin: 20px 0;"/>
+
 <div align="center">
-
-<img src="Nikash Lamsal frame.jpg" style="width: 100%; max-width: 1000px; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
-
-<hr style="border: 1px solid #00FFFF; width: 90%; margin: 20px 0;"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Frontend+Developer+(MERN);Machine+Learning+Enthusiast;Lifelong+Learner+%26+Builder!&center=true&width=800&height=45&color=00FFFF&size=28" alt="Typing SVG"/>
 
@@ -10,7 +11,9 @@
 
 ---
 
+<div align="center">
 # 🧑‍💻 <span style="color: #00FFFF; font-size: 35px;">About Me</span>
+</div>
 
 <div align="center" style="font-size: 24px;">
 
@@ -23,7 +26,9 @@ Hello! I'm **Nikash Lamsal**, a passionate **Computer Engineering student** from
 
 ---
 
+<div align="center">
 # <span style="color: #00FFFF; font-size: 35px;">Completed Projects</span>
+</div>
 
 <table align="center" width="90%">
   <tr>
@@ -55,9 +60,9 @@ Hello! I'm **Nikash Lamsal**, a passionate **Computer Engineering student** from
 </table>
 
 ---
-
-# 📊 <span style="color: #00FFFF; font-size: 35px;">GitHub Stats</span>
-
+<div align="center">
+# <span style="color: #00FFFF; font-size: 35px;">GitHub Stats</span>
+</div>
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&card_width=350" width="400px" />
@@ -69,8 +74,9 @@ Hello! I'm **Nikash Lamsal**, a passionate **Computer Engineering student** from
 </div>
 
 ---
-
-# 🤝 <span style="color: #00FFFF; font-size: 35px;">Connect with Me</span>
+<div align="center">
+# <span style="color: #00FFFF; font-size: 35px;">Connect with Me</span>
+</div>
 
 <p align="center">
   <a href="mailto:lamsalnikash312@gmail.com">
@@ -84,12 +90,13 @@ Hello! I'm **Nikash Lamsal**, a passionate **Computer Engineering student** from
   </a>
 </p>
 
----
+<hr style="border: 0.3px solid #00FFFF; width: 90%; margin: 20px 0;"/>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NikashLamsal&color=00FFFF&style=flat-square" alt="Profile Views" />
 </p>
-
+-->
 <h3 align="center" style="color: #00FFFF;"><i>“Every bug is a lesson, every fix is growth.”</i></h3>
 
 </div>
