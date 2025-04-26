@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="Nikash Lamsal frame.jpg" style="border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
+<img src="Nikash Lamsal frame.jpg" style="width: 100%; max-width: 1000px; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
 
-<br/>
----
+<hr style="border: 1px solid #00FFFF; width: 90%; margin: 20px 0;"/>
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Frontend+Developer+(MERN);Machine+Learning+Enthusiast;Lifelong+Learner+%26+Builder!&center=true&width=800&height=45&color=00FFFF&size=28" alt="Typing SVG"/>
+
+</div>
 
 ---
 
