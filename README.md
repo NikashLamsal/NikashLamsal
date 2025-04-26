@@ -91,4 +91,4 @@ I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>inn
 
 <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 20px 0;"/>
 
-<h3 align="center" style="color: #00FFFF; font-style: italic;">“Every bug is a lesson, every fix is growth.”</h3>
+<h4 align="center" style="color: #00FFFF; font-style: italic;">“Every bug is a lesson, every fix is growth.”</h4>
