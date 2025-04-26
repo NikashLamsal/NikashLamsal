@@ -16,7 +16,7 @@
 <br/>
 
 <!-- About Me Section -->
-<h1 align="center" style="color: #00FFFF; font-size: 35px;">🧑‍💻 About Me</h1>
+<h1 align="center" style="color: #00FFFF; font-size: 35px;"> About Me</h1>
 
 <div align="center" style="font-size: 30px; max-width: 1000px; margin: auto;">
 <h3>
