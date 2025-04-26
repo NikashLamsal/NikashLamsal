@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Nikash Lamsal Frame.jpg" width="500px" style="border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
+<img src="Nikash Lamsal frame.jpg" width="500px" style="border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
 
 <br/>
 
