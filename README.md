@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi there, Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-![WhatsApp Image 2025-04-26 at 20 52 13_c858fbe3](https://github.com/user-attachments/assets/ad615df1-fc68-4d49-95b5-c4f247acd8ae)
-
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Hi GIF">
 </p>
 
@@ -15,34 +10,32 @@
 
 ---
 
-# 🧑‍💻 About Me
-
-Hi, I'm <span style="color:#FF00FF;"><b>Nikash Lamsal</b></span>!  
-🎓 A passionate **Computer Engineering student** at *Tribhuvan University, Nepal*, driven by a deep love for **technology**, **innovation**, and **continuous learning**.  
-💻 I thrive in the world of **programming**, 🏆 **hackathons**, and 🤝 **open-source collaboration**.  
-🚀 Currently sharpening my skills as an **Intern** at *Nobel Navigators and Team*.  
-Always ready to transform ideas into reality! 🌟
-
----
-
-# 🚀 What I'm Exploring
-
-- 🌐 **MERN Stack Development** – Crafting modern full-stack web applications  
-- 🤖 **Machine Learning** – Unlocking the potential of AI and data-driven insights  
+<h2 align="center">About Me 👨‍💻</h2>
+<div align="center">
+  <img src="Github Profile .jpg" alt="Nikash's Profile Picture" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); width: 180px; height: 180px;">
+  <div style="display: inline-block; margin-left: 20px; max-width: 400px; text-align: left; line-height: 1.5;">
+    <p><span style="color:#FF00FF; font-weight: bold;">Hi, I'm Nikash Lamsal!</span>  
+    🎓 A **Computer Engineering student** at *Tribhuvan University, Nepal*, passionate about **technology**, **programming**, and **continuous learning**.  
+    💻 Currently an **Intern** at *Nobel Navigators*, working on exciting projects and exploring new horizons.  
+    🚀 I specialize in **MERN Stack Development** and **Machine Learning**, with a goal to use **AI** and **data-driven insights** to solve real-world problems.</p>
+  </div>
+</div>
 
 ---
 
-# 💬 Ask Me About
+<h2 align="center">Completed Projects 🚀</h2>
 
-- 🎨 Designing **sleek, interactive frontend experiences**  
-- 🧩 Creating **intuitive, user-centered UI/UX** designs  
-- 🛠️ Writing **efficient and optimized code** in **C, C++**, and **Python**
+- [**Interactive Learning Platform**](https://link-to-your-project.com)  
+  An online platform that allows users to engage with educational content in a dynamic and interactive way.
 
----
+- [**Neon Space Dodger**](https://link-to-your-project.com)  
+  A fun, fast-paced game featuring a spaceship dodging obstacles with vibrant neon effects.
 
-# 🔥 Current Projects
+- [**Typing Test Simulator**](https://link-to-your-project.com)  
+  A real-time typing test app with virtual keyboard interaction, typing stats, and personalized challenges.
 
-- 🚀 Building an **Interactive Learning Platform** with my incredible team!  
+- [**Salary Predictor**](https://link-to-your-project.com)  
+  A machine learning project predicting salaries based on experience, education, and other relevant factors.
 
 ---
 
