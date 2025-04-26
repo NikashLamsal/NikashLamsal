@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="font-family: 'Fira Code', monospace; font-size: 60px; color: #00FFFF; text-shadow: 0px 0px 10px #00FFFF;">🚀 Nikash Lamsal</span>
+# <span style="font-family: 'Fira Code', monospace; font-size: 60px; color: #00FFFF; text-shadow: 0px 0px 10px #00FFFF;">Nikash Lamsal</span>
 
 <br/>
 
@@ -8,7 +8,7 @@
 <tr>
 <td width="50%" align="center">
   
-<img src="Github Profile .jpg" width="230px" style="border-radius: 50%; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash's Pic"/>
+<img src="me.png" width="230px" style="border-radius: 50%; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash's Pic"/>
 
 </td>
 <td width="50%" align="center">
