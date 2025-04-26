@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi there, Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-  <img src="./Frame%201.svg" alt="Banner Image" width="80%" />
+![WhatsApp Image 2025-04-26 at 20 52 13_c858fbe3](https://github.com/user-attachments/assets/ad615df1-fc68-4d49-95b5-c4f247acd8ae)
+
 </p>
 
 <p align="center">
