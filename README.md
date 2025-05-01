@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Nikash Lamsal.svg" style="width: 100%; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
+  <img src="Frame 1.svg" style="width: 100%; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
 
   <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 10px 0;"/>
 
