@@ -1,12 +1,15 @@
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img src="Frame 1.svg" style="width: 100%; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
 
-  <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 10px 0;"/>
+  <img src="Nikash Lamsal.svg" style="width: 100%; border-radius: 20px; box-shadow: 0px 0px 25px #00FFFF;" alt="Nikash Lamsal Frame"/>
+
+<hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 20px 0;"/>
+
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Frontend+Developer+(MERN);Machine+Learning+Enthusiast;Lifelong+Learner+%26+Builder!&center=true&width=800&height=45&color=00FFFF&size=28" alt="Typing SVG"/>
 
-  <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 10px 0;"/>
+<hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 20px 0;"/>
 
 
 </div>
@@ -64,7 +67,8 @@ I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>inn
 <br/>
 
 <!-- GitHub Stats Section -->
-<h1 align="center" style="color: #00FFFF; font-size: 35px;">GitHub Stats</h1>
+# <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<p align="center">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&card_width=350" width="400px"/>
@@ -89,6 +93,6 @@ I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>inn
   </a>
 </p>
 
-<hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 20px 0;"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h4 align="center" style="color: #00FFFF; font-style: italic;">“Every bug is a lesson, every fix is growth.”</h4>
