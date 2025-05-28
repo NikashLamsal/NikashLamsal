@@ -58,10 +58,6 @@ I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>inn
     <td><a href="https://github.com/NikashLamsal/AI-Extension"><b>AI Extension</b></a></td>
     <td>Chrome extension providing quick access to the best AI tools for developers and students.</td>
   </tr>
-  <tr>
-    <td><a href="https://nikashlamsal.github.io/BMI-Calculator/"><b>BMI Calculator</b></a></td>
-    <td>Simple and responsive web-based BMI calculator.</td>
-  </tr>
 </table>
 
 <br/>
