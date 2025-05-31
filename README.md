@@ -22,7 +22,7 @@
 <div align="center" style="font-size: 30px; max-width: 1000px; margin: auto;">
 <h3>
 Hello! I'm <b>Nikash Lamsal</b>, a passionate <b>Computer Engineering student</b> from <b>Tribhuvan University, Nepal 🇳🇵</b>.<br><br>
-Passionate about <b>Full Stack Web Development (MERN Stack)</b>, <b>Machine Learning</b>, and <b>Open Source Contributions</b>.<br>
+Passionate about <b>Full Stack Web Development </b>, <b>Machine Learning</b>, and <b>Open Source Contributions</b>.<br>
 Currently an <b>Intern</b> at <b>Nobel Navigators</b>, honing my development skills.<br>
 I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>innovating through code</b>.
 </h3>
