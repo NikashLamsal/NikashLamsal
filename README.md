@@ -39,16 +39,17 @@ I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>inn
     <th>Description</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/NikashLamsal/GrowSense-HackForNepal"><b>GrowSense</b></a></td>
+    <td>An intelligent agriculture platform that helps farmers automate irrigation .</td>
+  </tr>
+  
+  <tr>
     <td><a href="https://nikashlamsal.github.io/New-Life-Arch/"><b>New Life Arch</b></a></td>
     <td>A webpage for an architecture consultancy.</td>
   </tr>
   <tr>
     <td><a href="https://nikashlamsal.github.io/Space-Dodger/"><b>Space Dodger Game</b></a></td>
     <td>Fast-paced neon-style dodging game built with JavaScript.</td>
-  </tr>
-  <tr>
-    <td><a href="https://nikashlamsal.github.io/Keyboard-Simulator/"><b>Keyboard Simulator</b></a></td>
-    <td>Real-time typing simulator with RGB keyboard effects.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/NikashLamsal/Salary-Prediction-System"><b>Salary Predictor</b></a></td>
