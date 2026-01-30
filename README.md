@@ -38,6 +38,10 @@ I believe in <b>continuous growth</b>, <b>project-based learning</b>, and <b>inn
     <th>Project Name</th>
     <th>Description</th>
   </tr>
+   <tr>
+    <td><a href="https://github.com/NikashLamsal/Expense-Tracker"><b>Expense Tracker</b></a></td>
+    <td>A simple and efficient Expense Tracker web application built using Django</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/NikashLamsal/GrowSense-HackForNepal"><b>GrowSense</b></a></td>
     <td>An intelligent agriculture platform that helps farmers automate irrigation .</td>
