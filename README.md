@@ -7,7 +7,7 @@
 <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 20px 0;"/>
 
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Django+Developer+(MERN);Machine+Learning+Enthusiast;&center=true&width=800&height=45&color=00FFFF&size=28" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Django+Developer;Machine+Learning+Enthusiast;&center=true&width=800&height=45&color=00FFFF&size=28" alt="Typing SVG"/>
 
 <hr style="border: 0.1px solid #00FFFF; width: 90%; margin: 20px 0;"/>
 
