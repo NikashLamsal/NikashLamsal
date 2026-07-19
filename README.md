@@ -31,7 +31,7 @@
 
 ##  About Me
 
-<img align="right" width="35%" src="https://raw.githubusercontent.com/OhCassie/OhCassie/master/img/computer.gif" />
+<!-- <img align="right" width="35%" src="https://raw.githubusercontent.com/OhCassie/OhCassie/master/img/computer.gif" /> -->
 
 ```yaml
 name: "Nikash Lamsal"
@@ -47,7 +47,7 @@ philosophy: "Engineering software that is not just functional, but scalable, sec
 
 I'm an undergraduate **Computer Engineering** student based in Kathmandu, Nepal, passionate about building software that sits at the intersection of **clean engineering** and **intelligent systems**. My work spans **full stack development**, **applied AI/ML**, and **system design**, with a strong emphasis on writing production-quality code rather than just prototypes.
 
-I approach every project with a **product engineering mindset** — thinking beyond "does it work" to "does it scale, is it secure, and does it solve a real problem." I enjoy the full lifecycle of building: architecture, implementation, optimization, and deployment.
+I approach every project with a **product engineering mindset**  thinking beyond "does it work" to "does it scale, is it secure, and does it solve a real problem." I enjoy the full lifecycle of building: architecture, implementation, optimization, and deployment.
 
 <br/>
 
@@ -75,9 +75,19 @@ I approach every project with a **product engineering mindset** — thinking bey
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel,postman&theme=dark" />
 </p>
 
+### Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
 <br/>
 
----
 <!-- 
 ## 🧠 AI / ML Expertise
 
@@ -97,7 +107,6 @@ I approach every project with a **product engineering mindset** — thinking bey
 
 <!-- <br/> -->
 
----
 <!-- 
 ## 🚀 Featured Projects
 
@@ -160,7 +169,6 @@ Emphasized a clean separation between the ingestion service and the dashboard fr
 
 <!-- <br/> -->
 
----
 <!-- 
 ## 💼 Experience
 
@@ -178,7 +186,6 @@ Working on applied software engineering and AI-integrated systems as part of aca
 
 <br/>
 
----
 
 ## 🏆 Achievements
 
@@ -195,7 +202,6 @@ Working on applied software engineering and AI-integrated systems as part of aca
 
 <!-- <br/> -->
 
----
 <!-- 
 ## 📜 Certifications
 
@@ -249,12 +255,13 @@ Working on applied software engineering and AI-integrated systems as part of aca
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=NikashLamsal&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=B794F6&currStreakLabel=B794F6" width="49%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=NikashLamsal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%"/> -->
+
+<img src="https://streak-stats.demolab.com?user=NikashLamsal&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=B794F6&currStreakLabel=B794F6" width="%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikashLamsal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&text_color=c9d1d9" width="49%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikashLamsal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&text_color=c9d1d9" width="49%"/> -->
 
 </div>
 
@@ -282,7 +289,6 @@ Working on applied software engineering and AI-integrated systems as part of aca
 
 <br/>
 
----
 
 <!-- ## 🐍 Contribution Snake
 
@@ -294,7 +300,6 @@ Working on applied software engineering and AI-integrated systems as part of aca
 
 <br/> -->
 
----
 <!-- 
 ## Current Focus
 
@@ -336,7 +341,7 @@ current_focus:
 
 <div align="center">
 
-<i>"Code is the closest thing we have to magic — I'm here to keep casting spells."</i>
+<i>"If it can be imagined, it can be programmed"</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
