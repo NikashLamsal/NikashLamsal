@@ -258,21 +258,19 @@ Working on applied software engineering and AI-integrated systems as part of aca
 
 </div>
 
-<br/>
-
+<!-- <br/> -->
 ---
-
+<!-- 
 ## GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=NikashLamsal&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
-</div>
+</div> -->
 
-<br/>
+<!-- <br/>  -->
 
----
 
 ## Contribution Activity
 
@@ -286,7 +284,7 @@ Working on applied software engineering and AI-integrated systems as part of aca
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -294,7 +292,7 @@ Working on applied software engineering and AI-integrated systems as part of aca
 
 </div>
 
-<br/>
+<br/> -->
 
 ---
 <!-- 
